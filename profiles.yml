@@ -3,9 +3,9 @@ dbt_learn_repos:
     dev:
       account: IFBNHLP-ATB70813
       database: RAW
+      schema : STAGING
       password: Sainathsc@1234
       role: ACCOUNTADMIN
-      schema: staging
       threads: 1
       type: snowflake
       user: saichakrawar120
